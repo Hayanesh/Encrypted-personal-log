@@ -13,6 +13,7 @@ import javax.swing.*;
  *Reason : OOPS assignment
  *Features: User-defined Encryption and Decryption
  *Security:Password Protection
+ * Author:Hayanesh
  */
 
 public class Diary extends Notepad implements ActionListener {
