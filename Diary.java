@@ -5,8 +5,7 @@ package diary;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 import javax.swing.*;
 
 /**
