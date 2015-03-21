@@ -10,7 +10,7 @@ STEPS TO RUN THIS FILE
   >javac Diary.java Notepad.java
    
 3.Now create a jar file and execute it.
-  Use the below link to if you don't know to create a jar file.
+  Use the below link if you don't know to create a jar file.
   http://www.wikihow.com/Create-JAR-File
 
 4.If step3 not works for you use any one of the IDEs like Netbeans,Eclipse,etc.
